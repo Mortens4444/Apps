@@ -1,0 +1,15 @@
+KertMester (Mortens) - Adatvédelmi irányelvek
+
+- Helyadatok felhasználása
+Az alkalmazás helyadatokat (kódolt megyenév küldése a HTTP GET kérésben) továbbít, hogy az aktuális idõjárás elõrejelzést lekérhesse a https://odp.met.hu/weather/text_forecast/regional_forecast/ weboldalról az adott megyéhez.
+
+- Összeomlás adatok
+Az alkalmazás összeomlás adatokat továbbít a mailto://kertmester.4444@gmail.com email címre és tárolja azokat, annak érdekében, hogy az alkalmazás esetleges hibáit javíthassák a fejlesztõk.
+Az összeomlás adatok nem kerülnek automatikusan törlésre, így azok kérésre az adatvédelmi kapcsolatartón keresztül töröltethetõek, a hiba keletkezésének körülbelüli idõpontjának megadásával (év, hónap, nap, óra pontossággal).
+
+Az alkalmazás nem gyûjt, oszt meg, tárol illetve szinkronizál egyéb adatokat a fentieken kívül.
+
+Adatvédelmi kapcsolattartó:
+Papp Tibor
++36 30 452 5555
+mortens.4444@gmail.com

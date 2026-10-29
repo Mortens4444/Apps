@@ -5,6 +5,8 @@
 - [M.A.G.U.S. Assistant](https://play.google.com/store/apps/details?id=com.mortens.MAGUS.Assistant)
 - [OktaTó Mobil](https://play.google.com/store/apps/details?id=com.mortens.oktato.mobil)
 
+---
+
 ### H4ckW1thM3
 
 **Státusz:** 🟢 Elérhető

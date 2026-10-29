@@ -1,15 +1,15 @@
-KertMester (Mortens) - Adatvédelmi irányelvek
+KertMester (Mortens) - AdatvÃ©delmi irÃ¡nyelvek
 
-- Helyadatok felhasználása
-Az alkalmazás helyadatokat (kódolt megyenév küldése a HTTP GET kérésben) továbbít, hogy az aktuális idõjárás elõrejelzést lekérhesse a https://odp.met.hu/weather/text_forecast/regional_forecast/ weboldalról az adott megyéhez.
+- Helyadatok felhasznÃ¡lÃ¡sa
+Az alkalmazÃ¡s helyadatokat (kÃ³dolt megyenÃ©v kÃ¼ldÃ©se a HTTP GET kÃ©rÃ©sben) tovÃ¡bbÃ­t, hogy az aktuÃ¡lis idÅ‘jÃ¡rÃ¡s elÅ‘rejelzÃ©st lekÃ©rhesse a https://odp.met.hu/weather/text_forecast/regional_forecast/ weboldalrÃ³l az adott megyÃ©hez.
 
-- Összeomlás adatok
-Az alkalmazás összeomlás adatokat továbbít a mailto://kertmester.4444@gmail.com email címre és tárolja azokat, annak érdekében, hogy az alkalmazás esetleges hibáit javíthassák a fejlesztõk.
-Az összeomlás adatok nem kerülnek automatikusan törlésre, így azok kérésre az adatvédelmi kapcsolatartón keresztül töröltethetõek, a hiba keletkezésének körülbelüli idõpontjának megadásával (év, hónap, nap, óra pontossággal).
+- Ã–sszeomlÃ¡s adatok
+Az alkalmazÃ¡s Ã¶sszeomlÃ¡s adatokat tovÃ¡bbÃ­t a mailto://kertmester.4444@gmail.com email cÃ­mre Ã©s tÃ¡rolja azokat, annak Ã©rdekÃ©ben, hogy az alkalmazÃ¡s esetleges hibÃ¡it javÃ­thassÃ¡k a fejlesztÅ‘k.
+Az Ã¶sszeomlÃ¡s adatok nem kerÃ¼lnek automatikusan tÃ¶rlÃ©sre, Ã­gy azok kÃ©rÃ©sre az adatvÃ©delmi kapcsolatartÃ³n keresztÃ¼l tÃ¶rÃ¶ltethetÅ‘ek, a hiba keletkezÃ©sÃ©nek kÃ¶rÃ¼lbelÃ¼li idÅ‘pontjÃ¡nak megadÃ¡sÃ¡val (Ã©v, hÃ³nap, nap, Ã³ra pontossÃ¡ggal).
 
-Az alkalmazás nem gyûjt, oszt meg, tárol illetve szinkronizál egyéb adatokat a fentieken kívül.
+Az alkalmazÃ¡s nem gyÅ±jt, oszt meg, tÃ¡rol illetve szinkronizÃ¡l egyÃ©b adatokat a fentieken kÃ­vÃ¼l.
 
-Adatvédelmi kapcsolattartó:
+AdatvÃ©delmi kapcsolattartÃ³:
 Papp Tibor
 +36 30 452 5555
 mortens.4444@gmail.com

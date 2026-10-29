@@ -1,12 +1,12 @@
-Adatvédelmi irányelvek
+AdatvÃ©delmi irÃ¡nyelvek
 
-Az OktaTo alkalmazás nem gyûjt és nem küld személyes adatot szerverre. Az alkalmazásnak nincs felhasználói fiókja, bejelentkezése, és nem tárol adatot központi adatbázisban.
+Az OktaTo alkalmazÃ¡s nem gyÅ±jt Ã©s nem kÃ¼ld szemÃ©lyes adatot szerverre. Az alkalmazÃ¡snak nincs felhasznÃ¡lÃ³i fiÃ³kja, bejelentkezÃ©se, Ã©s nem tÃ¡rol adatot kÃ¶zponti adatbÃ¡zisban.
 
-Az OktaTo.WebAPI projekt jelenleg üres, sablon állapotú (nem használt éles funkció), így azon keresztül sem történik adatküldés.
+Az OktaTo.WebAPI projekt jelenleg Ã¼res, sablon Ã¡llapotÃº (nem hasznÃ¡lt Ã©les funkciÃ³), Ã­gy azon keresztÃ¼l sem tÃ¶rtÃ©nik adatkÃ¼ldÃ©s.
 
-Az egyetlen külsõ hálózati hívás az alkalmazásban az Open-Meteo idõjárás-elõrejelzõ API (api.open-meteo.com) lekérdezése az Idõjárás modulban, fixen rögzített budapesti földrajzi koordinátákkal. Ehhez a lekérdezéshez semmilyen személyes vagy azonosításra alkalmas adat nem kerül továbbításra.
+Az egyetlen kÃ¼lsÅ‘ hÃ¡lÃ³zati hÃ­vÃ¡s az alkalmazÃ¡sban az Open-Meteo idÅ‘jÃ¡rÃ¡s-elÅ‘rejelzÅ‘ API (api.open-meteo.com) lekÃ©rdezÃ©se az IdÅ‘jÃ¡rÃ¡s modulban, fixen rÃ¶gzÃ­tett budapesti fÃ¶ldrajzi koordinÃ¡tÃ¡kkal. Ehhez a lekÃ©rdezÃ©shez semmilyen szemÃ©lyes vagy azonosÃ­tÃ¡sra alkalmas adat nem kerÃ¼l tovÃ¡bbÃ­tÃ¡sra.
 
-Adatvédelmi kapcsolattartó:
+AdatvÃ©delmi kapcsolattartÃ³:
 
 Papp Tibor
 +36 30 452 5555

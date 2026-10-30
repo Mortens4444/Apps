@@ -1,8 +1,6 @@
 Adatvédelmi irányelvek
 
-Az OktaTo alkalmazás nem gyűjt és nem küld személyes adatot szerverre. Az alkalmazásnak nincs felhasználói fiókja, bejelentkezése, és nem tárol adatot központi adatbázisban.
-
-Az OktaTo.WebAPI projekt jelenleg üres, sablon állapotú (nem használt éles funkció), így azon keresztül sem történik adatküldés.
+Az OktaTó Mobil alkalmazás nem gyűjt és nem küld személyes adatot szerverre. Az alkalmazásnak nincs felhasználói fiókja, bejelentkezése, és nem tárol adatot központi adatbázisban.
 
 Az egyetlen külső hálózati hívás az alkalmazásban az Open-Meteo időjárás-előrejelző API (api.open-meteo.com) lekérdezése az Időjárás modulban, fixen rögzített budapesti földrajzi koordinátákkal. Ehhez a lekérdezéshez semmilyen személyes vagy azonosításra alkalmas adat nem kerül továbbításra.
 
